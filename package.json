@@ -1,0 +1,28 @@
+{
+  "name": "Name list",
+  "version": "1.0.0",
+  "description": "a5",
+  "author": "Cooper",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "bulma": "^0.7.5",
+    "connect-flash": "^0.1.1",
+    "express": "^4.17.1",
+    "express-favicon": "^2.0.1",
+    "express-session": "^1.16.2",
+    "mime": "^2.4.4",
+    "passport": "^0.4.0",
+    "passport-local": "^1.0.0",
+    "path": "^0.12.7",
+    "pouchdb": "^7.1.1",
+    "pouchdb-upsert": "^2.2.0",
+    "serve-favicon": "^2.5.0",
+    "tailwindcss": "^1.1.2"
+  },
+  "engines": {
+    "node": "8.x"
+  }
+}
